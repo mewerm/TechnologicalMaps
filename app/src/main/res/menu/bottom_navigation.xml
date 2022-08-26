@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/hot_kitchen_menu"
+        android:icon="@drawable/ic_hot"
+        android:title="@string/hot_kitchen" />
+
+    <item
+        android:id="@+id/cold_kitchen_menu"
+        android:icon="@drawable/ic_cold"
+        android:title="@string/cold_kitchen" />
+
+    <item
+        android:id="@+id/pizza_kitchen_menu"
+        android:icon="@drawable/ic_pizza"
+        android:title="@string/pizza" />
+
+    <item
+        android:id="@+id/business_kitchen_menu"
+        android:icon="@drawable/ic_business"
+        android:title="@string/business" />
+
+    <item
+        android:id="@+id/blank_menu"
+        android:icon="@drawable/ic_blank"
+        android:title="@string/blank_shop" />
+
+</menu>

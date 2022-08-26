@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TechnologicalMaps</string>
+    <string name="hot_kitchen">Горячка</string>
+    <string name="cold_kitchen">Холодка</string>
+    <string name="pizza">Пицца</string>
+    <string name="business">Бизнес</string>
+    <string name="blank_shop">Заготовки</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Info_list">ТТК РАСКЛАДКИ</string>
+</resources>
